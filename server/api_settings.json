@@ -1,0 +1,9 @@
+{
+  "api_source": "deepseek",
+  "api_key": "sk-your-deepseek-api-key-here",
+  "api_keys": {
+    "deepseek": "sk-your-deepseek-api-key-here"
+  },
+  "model": "deepseek-chat",
+  "embed_model": "deepseek-embedding"
+}
